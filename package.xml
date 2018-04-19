@@ -4,10 +4,13 @@
     <types>
         <members>AccCls2</members>
         <members>AccCls3</members>
+        <members>AccCls4</members>
+        <members>AccCls5</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>AdmProfile111</members>
+        <members>AdminProfile11</members>
         <name>Profile</name>
     </types>
 </Package>
